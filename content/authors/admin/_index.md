@@ -1,34 +1,38 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Lennart Nacke, PhD
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Lennart
+last_name: Nacke
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🫶
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Waterloo
+    url: https://uwaterloo.ca/stratford-school-of-interaction-design-and-business/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Welcome to my website. I am a Professor and the Research Director of the HCI Games Group at the University of Waterloo in Canada. I am a world-leading expert on what makes games engaging and how we can use them to improve products, systems, and services. 
+
+My research is widely discussed and recognized by the New Yorker, Forbes, MIT Technology Review, CTV News, New Scientist, The Daily Mail, PC Gamer Magazine, and elsewhere. I have edited a textbook on Games User Research and authored hundreds of academic articles in gamification, user experience research, human-computer interaction, and game design.
+
+My Google Scholar profile and the HCI Games Group publications show my latest research. I also have a gameful design and user experience research and training company, MotiviUX, Inc.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - User Experience Research & Design
+  - Games
+  - Affective Computing
 
 # Education to show in About widget
 education:
