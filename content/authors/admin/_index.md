@@ -6,6 +6,10 @@ title: Lennart Nacke, PhD
 first_name: Lennart
 last_name: Nacke
 
+# Status emoji
+status:
+  icon: 💙
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -49,32 +53,43 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/acagamic
     label: Follow me on Twitter
+    display:
+      header: true
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/nacke/recent-activity/shares/
+    display:
+      header: true
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/acagamic
+    label: Subscribe to my channel on YouTube
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: https://scholar.google.com/citations?user=i-y5S2AAAAAJ
+  - icon: instagram
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.instagram.com/acagamic/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  #- icon: cv
+  #  icon_pack: ai
+  #  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'lennart.nacke@acm.org'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+## Lennart Nacke, PhD, is a Professor of UX Research and Design for games with two decades of successful experience researching games and gamification. He specializes in the cognitive and emotional aspects of player experience in video games.
+# As a result of his passion for player research, he has published 200+ papers, was recognized as one of 10 HCI scholars of the last decade and listed among the 2% of scientists worldwide based on citations and application of his research.
+
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Professor Nacke is passionate about how we can use games and play to increase our wellbeing and health to live more fulfilled lives. His approach to life is to keep it playful and to socialize over karaoke at conferences. You can find him writing daily on social media and his website as the acagamic.
 {style="text-align: justify;"}
