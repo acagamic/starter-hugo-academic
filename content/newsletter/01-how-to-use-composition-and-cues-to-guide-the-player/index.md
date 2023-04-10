@@ -15,7 +15,7 @@ date: '2022-02-15T08:09:00Z'
 reading_time: true
 
 # Date updated
-lastmod: '2022-02-15T10:09:00Z'
+lastmod: '2022-02-15T08:15:00Z'
 
 # Is this an unpublished draft?
 draft: false
