@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    org_name: 'Lennart Nacke'
+    description: ' Master the Art of Game UX Design and Research: Welcome to the ultimate resource for user experience research.' 
     twitter: 'acagamic'
   analytics:
     google_analytics: ''
@@ -43,11 +43,11 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Lennart Nacke.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization

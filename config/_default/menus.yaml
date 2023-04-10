@@ -8,17 +8,22 @@ main:
     url: '#about'
     weight: 10
   - name: Newsletter
-    url: 'newsletter'
+    url: 'newsletter/tatt'
+    identifier: newsletter
     weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
-  - name: Publications
-    url: '#featured'
-    weight: 50
+  # - name: The Acagamic Tip Tuesday
+  #   weight: 10
+  #   parent: newsletter
+  #   url: "/newsletter/tatt"
+  # - name: Projects
+  #   url: '#projects'
+  #   weight: 30
+  # - name: Talks
+  #   url: '#talks'
+  #   weight: 40
+  # - name: Publications
+  #   url: '#featured'
+  #   weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
