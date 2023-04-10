@@ -5,12 +5,11 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    content:
-#      title: Design, research, and write better.
-      cta_note:
-         label: <script async src="https://form.maildroppa.com/md-form-loader.js" data-md-form="143bbeff-f6dd-45d3-8280-d84dcf566936"></script>
-          <script async src="https://form.maildroppa.com/md-form-loader.js" data-md-form="b9f07008-80db-4060-b60b-b6b29b2b68c0"></script>
+#   - block: hero
+#     content:
+# #      title: Design, research, and write better.
+#       cta_note:
+#          label: 
 
   #     image:
   #       filename: hero-academic.png
@@ -138,11 +137,12 @@ sections:
   - block: collection
     id: newsletter
     content:
-      title: Recent Newsletter Issues
-      subtitle: ''
+      title: Recently on The Acagamic Tip Tuesday Newsletter
+      subtitle: '<script async src="https://form.maildroppa.com/md-form-loader.js" data-md-form="143bbeff-f6dd-45d3-8280-d84dcf566936"></script>
+          <script async src="https://form.maildroppa.com/md-form-loader.js" data-md-form="b9f07008-80db-4060-b60b-b6b29b2b68c0"></script>'
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 3
+      count: 4
       # Filter on criteria
       filters:
         folders:

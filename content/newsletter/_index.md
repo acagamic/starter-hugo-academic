@@ -1,5 +1,5 @@
 ---
-title: Newsletter
+title: The Acagamic Tip Tuesday
 cms_exclude: false
 
 # View.

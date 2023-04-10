@@ -8,9 +8,11 @@ summary: Discover the art of game inventory design, blending aesthetics & functi
 # Link this post with a project
 projects: []
 
+
 # Date published
 date: '2023-03-21T08:15:00Z'
 
+reading_time: true
 # Date updated
 lastmod: '2023-03-21T08:15:00Z'
 
@@ -23,10 +25,11 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Featured Image'
+  caption: 'A Game Inventory UI'
   focal_point: ''
   placement: 2
   preview_only: false
+  alt_text: A game UI showing some functionalities of a game inventory system.
 
 authors:
   - admin
