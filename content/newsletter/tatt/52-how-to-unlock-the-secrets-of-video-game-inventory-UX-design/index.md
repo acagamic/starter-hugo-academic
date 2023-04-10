@@ -32,10 +32,12 @@ authors:
   - admin
 
 tags:
+  - The Acagamic Tip Tuesday
   - UX
+  - Design
 
 categories:
-  - UX
+  - The Acagamic Tip Tuesday
 ---
 When it comes to UX design in games, inventory systems are often an overlooked aspect that can make or break the player experience. A game's overall success depends on how well its inventory is made, because this affects both how easy it is to use and how immersed you feel in the game. Inventory UX design should be easy to understand and efficient so that players can manage their items without stopping the flow of the game. Adding visual cues and organization can also help the player feel like they are making progress and getting better at the game. So, what are the challenges and opportunities of designing a game's inventory? And what are the different methods that game designers use to make inventory systems that work well and are fun to use?
 
