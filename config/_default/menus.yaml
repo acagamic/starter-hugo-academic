@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Newsletter
-    url: 'newsletter/tatt'
+    url: 'newsletter'
     identifier: newsletter
     weight: 20
   # - name: The Acagamic Tip Tuesday
