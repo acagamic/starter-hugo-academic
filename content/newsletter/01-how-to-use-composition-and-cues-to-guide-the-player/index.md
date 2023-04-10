@@ -43,10 +43,10 @@ tags:
 categories:
   - The Acagamic Tip Tuesday
 
-design:
-  spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["0", "0", "0", "0"]
+# design:
+#   spacing:
+#     # Customize the section spacing. Order is top, right, bottom, left.
+#     padding: ["0", "0", "0", "0"]
 
 # {{< vimeo 146022717 >}}
 ---
