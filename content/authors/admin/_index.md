@@ -22,7 +22,7 @@ organizations:
     url: https://uwaterloo.ca/stratford-school-of-interaction-design-and-business/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hey there, I am a Professor and the Research Director of the HCI Games Group at the University of Waterloo in Canada. I am a world-leading expert on what makes games engaging and how we can use them to improve products, systems, and services.  My research is widely discussed and recognized by the New Yorker, Forbes, MIT Technology Review, CTV News, New Scientist, The Daily Mail, PC Gamer Magazine, and elsewhere. I have edited a textbook on Games User Research and authored hundreds of academic articles in gamification, user experience research, human-computer interaction, and game design.<script async src="https://form.maildroppa.com/md-form-loader.js" data-md-form="f28860fb-8809-4f01-8b47-603dcc9c7edd"></script>
+bio: Hey there, I am a Professor and the Research Director of the HCI Games Group at the University of Waterloo in Canada. I am a world-leading expert on what makes games engaging and how we can use them to improve products, systems, and services.  My research is widely discussed and recognized by the New Yorker, Forbes, MIT Technology Review, CTV News, New Scientist, The Daily Mail, PC Gamer Magazine, and elsewhere. I have edited a textbook on Games User Research and authored hundreds of academic articles in gamification, user experience research, human-computer interaction, and game design.
 
 # Interests to show in About widget
 interests:
