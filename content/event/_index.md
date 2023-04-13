@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Recent & Upcoming Talks, Keynotes, Presentations
 cms_exclude: true
 
 # View.

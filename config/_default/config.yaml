@@ -41,6 +41,7 @@ permalinks:
   event: '/talks/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
+  newsletter: /newsletter/:year/:month/:slug'
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:

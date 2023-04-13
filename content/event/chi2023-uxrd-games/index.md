@@ -1,18 +1,25 @@
 ---
 title: "CHI 2023: User Experience Design and Research in Games (C05)"
 
+event: ACM CHI 2023 Conference on Human Factors in Computing System
+event_url: https://chi2023.acm.org/for-authors/courses/accepted-courses/
+
 summary: "This online course trains how user experience (UX) methods are used in a game context. The course consists of three units: UX design for games, games user research, and game analytics."
 tags:
   - User Experience
   - Game UX
   - UX Design
 date: '2023-04-12T10:00:00Z'
+location: "Virtual Event (CHI 2023)"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
+summary: "An example talk using Wowchemy's Markdown slides feature."
+abstract: "This online course trains how user experience (UX) methods are used in a game context. The course consists of three units: UX design for games, games user research, and game analytics. The course material comes from the \"Games User Research\" book published by Oxford University Press, and the book's editors will teach it. This course focuses on UX design and research for game development. Students will learn the skills they need to recognize, analyze, and understand player feedback so they can make valid decisions about how to design games. Through exercises and assignments, participants will learn how to identify factors that affect how a player plays a game and how to incorporate feedback into their design process. Participants will learn ways to get information from players, such as through direct observation, interviews, and surveys. Participants will be equipped with skills, knowledge, and tools to understand players to create engaging games."
+
 image:
-  caption: Participants of the Virtual (Online) CHI 2023 Course
+  caption: "Participants of the Virtual (Online) CHI 2023 Course"
   focal_point: Smart
 
 links:
@@ -22,7 +29,7 @@ links:
     url: https://twitter.com/gamesurbook
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: 'https://docs.google.com/presentation/d/1Wm4wjIxx6x8p2rb40_Ks1hUwSEfbBGCIcmp754ySPxo/edit?usp=sharing'
 url_video: ''
 
 # Slides (optional).
@@ -32,8 +39,6 @@ url_video: ''
 #   Otherwise, set `slides = ""`. example
 slides: ""
 ---
-
-This online course trains how user experience (UX) methods are used in a game context. The course consists of three units: UX design for games, games user research, and game analytics. The course material comes from the "Games User Research" book published by Oxford University Press, and the book's editors will teach it. This course focuses on UX design and research for game development. Students will learn the skills they need to recognize, analyze, and understand player feedback so they can make valid decisions about how to design games. Through exercises and assignments, participants will learn how to identify factors that affect how a player plays a game and how to incorporate feedback into their design process. Participants will learn ways to get information from players, such as through direct observation, interviews, and surveys. Participants will be equipped with skills, knowledge, and tools to understand players to create engaging games.
 
 {{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vTZ-JV1COnt8OIkX_Kf96KYWfUVZ1wSCvagdwtX1odrLWvf9hpiOt21h2Osu9-HAeLLFZze1akMTpQ7/embed?start=false&loop=false&delayms=3000" >}}
 
@@ -69,10 +74,3 @@ The key question to consider is how to differentiate between good, reliable, val
 
 As UX research experts, it is essential to help companies understand the reliability of their data and make informed decisions.
 
-## Discussion Points
-Over to you, think about these questions:
-
-- How can we effectively conduct UX research on a budget?
-- What are the best practices for combining different testing methods?
-- How can we help companies differentiate between reliable and unreliable data?
-- Feel free to share your thoughts and experiences as we dive into this important topic.
