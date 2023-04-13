@@ -15,7 +15,6 @@ location: "Virtual Event (CHI 2023)"
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-summary: "An example talk using Wowchemy's Markdown slides feature."
 abstract: "This online course trains how user experience (UX) methods are used in a game context. The course consists of three units: UX design for games, games user research, and game analytics. The course material comes from the \"Games User Research\" book published by Oxford University Press, and the book's editors will teach it. This course focuses on UX design and research for game development. Students will learn the skills they need to recognize, analyze, and understand player feedback so they can make valid decisions about how to design games. Through exercises and assignments, participants will learn how to identify factors that affect how a player plays a game and how to incorporate feedback into their design process. Participants will learn ways to get information from players, such as through direct observation, interviews, and surveys. Participants will be equipped with skills, knowledge, and tools to understand players to create engaging games."
 
 image:
