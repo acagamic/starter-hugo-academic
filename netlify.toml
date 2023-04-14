@@ -28,8 +28,6 @@
   query = {path = ":path"}
   conditions = {Language = ["en"], Country = ["CA"], Role = ["admin"]}
 
-## This rule redirects to an external API, signing requests with a secret
-[[redirects]]
   from = "/writing-newsletter"
   to = "https://view.flodesk.com/pages/6438556c47fd69214ac03f1d"
   status = 200
