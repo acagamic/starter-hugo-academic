@@ -138,8 +138,7 @@ sections:
     id: newsletter
     content:
       title: Recently on The Acagamic Tip Tuesday Newsletter
-      subtitle: '<script async src="https://form.maildroppa.com/md-form-loader.js" data-md-form="143bbeff-f6dd-45d3-8280-d84dcf566936"></script>
-          <script async src="https://form.maildroppa.com/md-form-loader.js" data-md-form="b9f07008-80db-4060-b60b-b6b29b2b68c0"></script>'
+      subtitle: "<div id=\"fd-form-6438da69c62f9267e6b46982\"></div><script>window.fd('form', { formId: '6438da69c62f9267e6b46982',containerEl: '#fd-form-6438da69c62f9267e6b46982'});</script>"
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
       count: 4

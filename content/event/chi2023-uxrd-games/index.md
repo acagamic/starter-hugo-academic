@@ -10,6 +10,9 @@ tags:
   - Game UX
   - UX Design
 date: '2023-04-12T10:00:00Z'
+date_end: '2023-04-12T14:00:00Z'
+all_day: false
+
 location: "Virtual Event (CHI 2023)"
 
 # Optional external URL for project (replaces project detail page).
@@ -37,6 +40,12 @@ url_video: ''
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`. example
 slides: ""
+# publishDate: '2017-01-01T00:00:00Z'
+
+authors:
+  - admin
+  - Pejman Mirza-Babaei
+  - Anders Drachen
 ---
 
 {{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vTZ-JV1COnt8OIkX_Kf96KYWfUVZ1wSCvagdwtX1odrLWvf9hpiOt21h2Osu9-HAeLLFZze1akMTpQ7/embed?start=false&loop=false&delayms=3000" >}}
