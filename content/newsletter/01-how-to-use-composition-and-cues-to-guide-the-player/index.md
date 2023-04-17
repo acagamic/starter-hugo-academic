@@ -1,6 +1,6 @@
 ---
 title: How to Use Composition and Cues to Guide the Player
-subtitle: The Acagamic Tip Tuesday (Issue 1)
+subtitle: The Acagamic Tip Tuesday \#02
 
 # Summary for listings and search engines
 summary: Use artistic composition and environmental cues to guide players smoothly through your game.

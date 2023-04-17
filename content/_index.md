@@ -138,7 +138,7 @@ sections:
     id: newsletter
     content:
       title: Recently on The Acagamic Tip Tuesday Newsletter
-      subtitle: "<div id=\"fd-form-6438da69c62f9267e6b46982\"></div><script>window.fd('form', { formId: '6438da69c62f9267e6b46982',containerEl: '#fd-form-6438da69c62f9267e6b46982'});</script>"
+      subtitle: ""
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
       count: 4
