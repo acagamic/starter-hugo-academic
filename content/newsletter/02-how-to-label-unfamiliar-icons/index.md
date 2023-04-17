@@ -82,15 +82,15 @@ Like providing alt text for images (which is vital for blind users when interact
 
 Here are some best practices for labeling unfamiliar icons in video game UIs:
 
-1. Provide brief tooltip explanations: Tooltips are an effective way to provide context for unfamiliar icons without cluttering the interface. Players can access a short description that clarifies the icon's purpose by hovering over an icon.
+1. **Provide brief tooltip explanations:** Tooltips are an effective way to provide context for unfamiliar icons without cluttering the interface. Players can access a short description that clarifies the icon's purpose by hovering over an icon.
 
-2. Offer customizable display modes: Allowing players to toggle between icon-only and labelled display modes ensures that the UI caters to different preferences and levels of gaming experience. This feature helps maintain a clean interface while still providing essential information for those who need it.
+2. **Offer customizable display modes:** Allowing players to toggle between icon-only and labelled display modes ensures that the UI caters to different preferences and levels of gaming experience. This feature helps maintain a clean interface while still providing essential information for those who need it.
 
-3. Use clear and concise language: When crafting labels for icons, it's crucial to use clear and concise language that can be easily understood by players from various cultural backgrounds. Avoid using slang, idioms, or culturally-specific phrases that may confuse some players.
+3. **Use clear and concise language:** When crafting labels for icons, it's crucial to use clear and concise language that can be easily understood by players from various cultural backgrounds. Avoid using slang, idioms, or culturally-specific phrases that may confuse some players.
 
-4. Consider colour-blind accessibility: When designing icons and labels, it's crucial to remember that a significant portion of the gaming community may be colour-blind. Therefore, ensure that your labels and icons are distinguishable using shapes and patterns, in addition to colours, to maintain accessibility for all players.
+4. **Consider colour-blind accessibility:** When designing icons and labels, it's crucial to remember that a significant portion of the gaming community may be colour-blind. Therefore, ensure that your labels and icons are distinguishable using shapes and patterns, in addition to colours, to maintain accessibility for all players.
 
-5. Test with diverse user groups: If you want to make a truly accessible user interface, you need to test your icons and labels with a wide range of users, including those from different cultures, languages, and levels of gaming experience. This will help you find any possible problems or mistakes and make the necessary changes to make your game easier for everyone to play.
+5. **Test with diverse user groups:** If you want to make a truly accessible user interface, you need to test your icons and labels with a wide range of users, including those from different cultures, languages, and levels of gaming experience. This will help you find any possible problems or mistakes and make the necessary changes to make your game easier for everyone to play.
 
 In closing, it's vital to video game UIs to have labels for new icons so that players from different cultures and with different levels of gaming experience can have a smooth and immersive experience. Developers can make user interfaces that are not only visually appealing but also accessible and open to everyone by including tooltips, giving customizable display modes, using clear and concise language, taking colour blindness into account, and testing with different user groups.
 
