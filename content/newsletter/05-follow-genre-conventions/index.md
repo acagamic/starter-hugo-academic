@@ -1,5 +1,5 @@
 ---
-title: "Baby Ducks: Why Following Genre Conventions Matters in Video Games"
+title: Why Following Genre Conventions Matters in Video Games
 subtitle: The Acagamic Tip Tuesday \#05
 
 # Summary for listings and search engines
