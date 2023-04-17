@@ -1,6 +1,6 @@
 ---
 title: "Don't Spook the Newbies: Unveiling 5 Proven Game Onboarding Techniques"
-subtitle: The Acagamic Tip Tuesday \#52
+subtitle: The Acagamic Tip Tuesday \#53
 
 # Summary for listings and search engines
 summary: Discover the art of game inventory design, blending aesthetics & functionality to enhance UX in iconic games like Zelda and Dark Souls. Find out how game UX designers balance the need for an inventory system that looks good with the need for players to be able to manage their items easily.
