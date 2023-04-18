@@ -1,6 +1,7 @@
 ---
 title: The Acagamic Tip Tuesday
 cms_exclude: false
+# aliases: [/blog/]
 
 # View.
 #   1 = List

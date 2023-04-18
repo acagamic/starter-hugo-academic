@@ -11,6 +11,7 @@ projects: []
 
 # Date published
 date: '2023-04-04T10:09:00Z'
+publishDate: '2023-04-04T10:09:00Z'
 
 reading_time: true
 # Date updated
