@@ -25,11 +25,11 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'An UI of a game featuring an onboarding tutorial'
+  caption: 'A cute little ghost scaring their friend'
   focal_point: ''
   placement: 2
   preview_only: false
-  alt_text: An UI of a game featuring an onboarding tutorial.
+  alt_text: A cute little ghost scaring their friend.
 
 authors:
   - admin

@@ -26,11 +26,11 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Woman putting on a VR headset'
+  caption: 'Two scientists observing a player in a room'
   focal_point: ''
   placement: 2
   preview_only: false
-  alt_text: Woman putting on a VR headset
+  alt_text: Two scientists observing a player in a room.
 
 authors:
   - admin
