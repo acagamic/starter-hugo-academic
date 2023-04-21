@@ -47,9 +47,38 @@ authors:
   - Pejman Mirza-Babaei
   - Anders Drachen
 ---
-# Introduction Video
+# Course Introduction Video
 
 {{< vimeo 817773738 >}}
+
+Welcome to this course on user experience (UX) design and research in games. We are delighted to have you with us and hope you will find the course both informative and engaging. This lesson will provide a comprehensive overview of the topics we will cover, as well as an introduction to your course instructors. We will also engage in interactive activities and exercises to help you practice and refine your skills in UX design and research for games.
+
+Course Outline
+1. Introduction and Icebreaker Activity
+2. UX Design for Games
+3. UX Research for Games: Methods and Activities
+4. Game Analytics
+   
+Throughout the course, we will adhere to the following schedule, although minor adjustments may be necessary:
+
+1. Introduction and Icebreaker
+2. UX Design for Games
+3. Coffee Break
+4. UX Research for Games: Methods and Activities 
+5. Lunch/Dinner Break
+6. Game Analytics
+   
+Our goal is to make this course as interactive and engaging as possible. We will ensure that the content is not dry and provide regular breaks to help you stay focused and have an enjoyable experience.
+
+# Instructor Introductions
+## Lennart Nacke
+Lennart is a full professor and a leading researcher in human-computer interaction (HCI) and games. He leads the HCI Games Group, which focuses on high-quality research in this field. Lennart has received numerous accolades for his work, including being listed as a top 2% most cited scientist globally and a top 20 most influential scholar in HCI over the past decade.
+
+# Pejman Mirza-Babaei
+Pejman is a faculty member at Ontario Tech University, specializing in user research and interaction design. With extensive experience in the industry, Pejman has worked as a director of user research and has been involved in publishing over 20 games. His expertise ranges from delivery robots to augmented reality and virtual reality design. He has co-authored two books: Game User Research and Game Designer's Playbook.
+
+# Anders Drachen
+Anders is a professor and director of the SD Metaverse Lab at the University of Southern Denmark. With over 20 years of experience, his research focuses on ultra-large-scale behavioural analysis and data science in games. Anders has co-authored the books Game User Research and Game Data Science.
 
 # Slides
 {{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vTZ-JV1COnt8OIkX_Kf96KYWfUVZ1wSCvagdwtX1odrLWvf9hpiOt21h2Osu9-HAeLLFZze1akMTpQ7/embed?start=false&loop=false&delayms=3000" >}}
