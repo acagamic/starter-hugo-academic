@@ -47,12 +47,59 @@ authors:
   - Pejman Mirza-Babaei
   - Anders Drachen
 ---
-#Introduction Video
+# Introduction Video
 
 {{< vimeo 817773738 >}}
 
 # Slides
 {{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vTZ-JV1COnt8OIkX_Kf96KYWfUVZ1wSCvagdwtX1odrLWvf9hpiOt21h2Osu9-HAeLLFZze1akMTpQ7/embed?start=false&loop=false&delayms=3000" >}}
+
+# UX Design vs. UI Design in Games
+### Presented by Lennart Nacke
+
+In this short presentation, Lennart Nacke explained to you how to effectively design and implement User Experience (UX) and User Interface (UI) in video games.
+
+By mastering UX and UI design, you'll be able to create more engaging, enjoyable, and accessible gaming experiences for your players. This can lead to increased player satisfaction, higher player retention rates, and ultimately, greater success for your game.
+
+Unfortunately, many game designers struggle to fully understand and incorporate UX and UI design principles in their projects. This is due to a variety of factors:
+
+## Lack of clear differentiation between UX and UI
+- Confusion about the differences between UX and UI design
+- Misconceptions about the roles and responsibilities of UX and UI designers
+- Overemphasis on one aspect (e.g., visuals) at the expense of the other (e.g., usability)
+ 
+Some other common reasons for struggling with UX and UI design include:
+
+- Inadequate understanding of the target audience and their needs
+- Insufficient focus on accessibility and inclusivity
+- Lack of attention to detail in designing UI elements and game mechanics
+- Inability to effectively integrate narrative and gameplay elements
+
+Not to worry though, Lennart guided you through the process of overcoming these challenges and presented how to create captivating gaming experiences through effective UX and UI design with examples.
+
+{{< vimeo 819842423 >}}
+
+## UX Design: A Holistic Approach
+UX design focuses on creating enjoyable, accessible, and engaging player experiences by considering all aspects of gameplay, from controls and mechanics to narrative and aesthetics. It is a holistic approach that helps you understand and improve how players interact with the game and respond emotionally to its elements.
+
+## UI Design: Focusing on Visual and Interactive Components
+UI design, a specific sub-element of UX design, focuses on the visual and interactive components of the game interface, such as menus, icons, and HUD elements. The goal of UI design is to make these components clear, intuitive, and aesthetically pleasing, as they influence the user experience and the hedonic aspects of the game.
+
+## Examples of UX and UI Design in Games
+### Narrative Anchoring: The Last of Us
+In the game "The Last of Us", the narrative anchors the gameplay. The relationship between the characters Joel and his daughter is established early on, and the player experiences the game from different perspectives – first as the helpless daughter, then as the guardian. The narrative's emotional anchor sets the pretext for the rest of the game, influencing the player's experience throughout.
+
+### Heuristics and Game Accessibility
+Heuristics, such as the Game Accessibility Principles (GAP), ensure that all information in the game is accessible to players. In "Fallout 3", the targeting system (VATS) effectively presents information to players, such as the chance of a successful attack and the amount of damage dealt to enemies.
+
+### Non-diegetic and Diegetic UI Elements
+In games, user interfaces can be either non-diegetic (not part of the game world) or diegetic (part of the game world). For example, "Tomb Raider" features context-sensitive instructions baked into the environment, guiding the player through the game. The game also uses highlighting colors to show where the character must go, effectively integrating UI elements into the game world.
+
+### Level Design and Weenies
+Weenies, a term coined by Walt Disney Imagineers, are cues that guide players to different locations within the game. They are often used in level design to direct the player's attention and provide a sense of direction. In "Half-Life 2", the Citadel serves as a weenie, drawing the player towards it throughout the game.
+
+## The Synergy of UX and UI Design in Gaming
+Understanding and implementing UX and UI design in games is crucial to create an engaging and enjoyable player experience. The examples given above like narrative anchoring, heuristics, diegetic and non-diegetic UI elements, and weenies, help designers enhance the user experience and create a more immersive and captivating game.
 
 # UX Research on a Budget: Methods, Tips, and Considerations
 
