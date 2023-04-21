@@ -47,7 +47,11 @@ authors:
   - Pejman Mirza-Babaei
   - Anders Drachen
 ---
+#Introduction Video
 
+{{< vimeo 817773738 >}}
+
+# Slides
 {{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vTZ-JV1COnt8OIkX_Kf96KYWfUVZ1wSCvagdwtX1odrLWvf9hpiOt21h2Osu9-HAeLLFZze1akMTpQ7/embed?start=false&loop=false&delayms=3000" >}}
 
 # UX Research on a Budget: Methods, Tips, and Considerations
