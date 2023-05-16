@@ -22,7 +22,7 @@ organizations:
     url: https://uwaterloo.ca/stratford-school-of-interaction-design-and-business/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dr. Lennart Nacke is a pioneer in games, gamification, and user experience. As Professor of Human-Computer Interaction (HCI) in Games at University of Waterloo, he explores how user experience of video and exercise games can drive engagement and change behaviours. Over the past 15 years, he has published more than 200 academic papers and a best-selling book on Games User Research. A sought-after keynote speaker, Dr. Nacke has advised organizations worldwide on effective gamification strategies. He was recognized among the top 10 HCI scholars of the last decade and the top 2% of scientists worldwide. His groundbreaking work continues to shape how we understand and apply games research.
+bio: Hey there, I am a Professor and the Research Director of the HCI Games Group at the University of Waterloo in Canada. I am a world-leading expert on what makes games engaging and how we can use them to improve products, systems, and services.  My research is widely discussed and recognized by the New Yorker, Forbes, MIT Technology Review, CTV News, New Scientist, The Daily Mail, PC Gamer Magazine, and elsewhere. I have edited a textbook on Games User Research and authored hundreds of academic articles in gamification, user experience research, human-computer interaction, and game design.
 
 # Interests to show in About widget
 interests:
@@ -91,5 +91,5 @@ highlight_name: true
 
 ---
 
-Professor Nacke is passionate about how we can use games and play to increase our wellbeing and health to live more fulfilled lives. His approach to life is to keep it playful and to socialize over karaoke at conferences. You can find him writing daily on social media and his website as the acagamic.
+Dr. Lennart Nacke is a pioneer in games, gamification, and user experience. As Professor of Human-Computer Interaction (HCI) in Games at University of Waterloo, he explores how user experience of video and exercise games can drive engagement and change behaviours. Over the past 15 years, he has published more than 200 academic papers and a best-selling book on Games User Research. A sought-after keynote speaker, Dr. Nacke has advised organizations worldwide on effective gamification strategies. He was recognized among the top 10 HCI scholars of the last decade and the top 2% of scientists worldwide. His groundbreaking work continues to shape how we understand and apply games research.
 {style="text-align: justify;"}
