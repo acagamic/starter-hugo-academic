@@ -3,7 +3,7 @@ title: "3 steps to games user research"
 subtitle: The Acagamic Tip Tuesday \#56
 
 # Summary for listings and search engines
-summary: Discover how to bridge the gap between design intent and the gaming experience with our step-by-step guide to games user research. Improve your game design process, boost player satisfaction, and unlock the potential for unprecedented success with your games.
+summary: Discover how to bridge the gap between design intent and player experience with our step-by-step guide to games user research. Improve your game design process, boost player satisfaction, and unlock the potential for unprecedented success with your games.
 
 # Link this post with a project
 projects: []
@@ -27,11 +27,11 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Player analyzing their gameplay experience.'
+  caption: 'Young games user researcher.'
   focal_point: ''
   placement: 2
   preview_only: false
-  alt_text: Player analyzing their gameplay experience for ultimate enjoyment.
+  alt_text: Young games user researcher struggling to figure it all out.
 
 authors:
   - admin
