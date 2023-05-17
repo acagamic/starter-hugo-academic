@@ -1,5 +1,5 @@
 ---
-title: "3 steps to games user research"
+title: "3 Steps to Understanding Games User Research"
 subtitle: The Acagamic Tip Tuesday \#56
 
 # Summary for listings and search engines
