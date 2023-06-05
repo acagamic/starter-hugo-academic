@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Lennart Nacke.'
+    notice: '© {year} Lennart Nacke. <script src="https://cdn.usefathom.com/script.js" data-site="NFCKRHFJ" defer></script>'
     license:
       enable: false
       allow_derivatives: false
