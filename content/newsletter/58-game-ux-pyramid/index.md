@@ -1,5 +1,5 @@
 ---
-title: "Introducing: The Game UX Pyramid- Navigating Player Needs"
+title: "Introducing: The Game UX Pyramid - Navigating Player Needs"
 subtitle: The Acagamic Tip Tuesday \#59
 
 # Summary for listings and search engines
@@ -57,7 +57,7 @@ In today's issue, I want to break down game UX design layer by layer. This is ba
 
 Unfortunately, far too many game UX researchers get stuck in the muddy trenches of the design process. They grapple with fragmented player feedback, navigate complex mechanics, and sometimes lose sight of what makes a game truly memorable: an immersive, player-centric experience. Let's break down how this experience could unfold.
 
-![A diagram of the Game UX Pyramid.](./The Game UX Pyramid.jpg)
+![A diagram of the Game UX Pyramid.](./Game_UX_Pyramid.jpg)
 
 ## Stage 1: Functionality
 
