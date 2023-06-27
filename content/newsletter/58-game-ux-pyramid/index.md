@@ -89,7 +89,7 @@ Your game is enjoyable if players embrace it and promote it freely. Players will
 
 ## Stage 6: Meaning
 
-Here your game becomes more than just a pastime. The player's experience is defined by the reflective and behavioral aspects of the game. Players are required to consider the consequences of their actions in some games that incorporate ethical choices. Instead of simply completing tasks, other games reward players for making meaningful decisions. Yet other games reward players for improving their dexterity and strategic thinking by increasing the difficulty exponentially. Lastly, players can be rewarded with surprising turns and unexpected events when they play through a gripping story.
+Here your game becomes more than just a pastime. The player's experience is defined by the reflective and behavioural aspects of the game. Players are required to consider the consequences of their actions in some games that incorporate ethical choices. Instead of simply completing tasks, other games reward players for making meaningful decisions. Yet other games reward players for improving their dexterity and strategic thinking by increasing the difficulty exponentially. Lastly, players can be rewarded with surprising turns and unexpected events when they play through a gripping story.
 
 To reach the top of the pyramid, focus on minimizing pain points and unintentional player obstacles. Personalize your game to help players improve their skills, health, and life. Think about the experience beyond the game's content. Cater to your players' changing needs and evolving experiences. Regular player research is crucial here. This is the heart of game UX design.
 
