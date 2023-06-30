@@ -24,8 +24,9 @@
   from = "/blog"
   to = "/newsletter"
   status = 301
-  force = true
+  force = false
   query = {path = ":path"}
+  conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
 
 [[redirects]]
   from = "/writing-newsletter"
@@ -43,3 +44,10 @@
   headers = {X-From = "Netlify"}
   signed = "API_SIGNATURE_TOKEN"
 
+[[redirects]]
+  from = "/newsletter/2023/06/27/introducing-the-game-ux-pyramid-navigating-player-needs/"
+  to = "/newsletter/2023/06/27/the-game-ux-design-pyramid-applying-the-ux-pyramid-to-ux-game-design/"
+  status = 301
+  force = false
+  query = {path = ":path"}
+  conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
