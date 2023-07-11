@@ -11,14 +11,13 @@ main:
     url: 'newsletter'
     identifier: newsletter
     weight: 20
+#  - name: Guides
+#    url: "guides"
+#    weight: 25
   - name: Writing Course
     url: 'https://www.chicourse.com/courses/how-to-write-better-research-papers'
     identifier: course
     weight: 30
-  # - name: The Acagamic Tip Tuesday
-  #   weight: 10
-  #   parent: newsletter
-  #   url: "/newsletter/tatt"
   # - name: Projects
   #   url: '#projects'
   #   weight: 30

@@ -75,11 +75,3 @@ It is essential that developers adhere to genre conventions, but they must also 
 - **Expanding upon the classics**: Developers can build upon the foundations laid by iconic arcade titles, using them as inspiration while adding their own unique touches to create a new yet familiar experience.
 
 Video game makers need to stick to genre conventions if they want to give players a familiar and fun experience. Producers can make games that connect with their target audience if they know what players expect from a certain genre after their first experience with it. In arcade-style games, this means having fast action, easy controls, and a goal of getting a high score, while also adding new ideas and new technology. Finding the right mix between sticking to genre norms and adding new ideas can lead to a game that not only meets player expectations but also stands out from other games in the same genre.
-
-# Three Tweets
-
-{{< tweet user="KariGaynor" id="1087159432989954048" >}}
-
-{{< tweet user="grmcall" id="1131899546936717314" >}}
-
-> Great advice from @Teknobabel. "The Game UX Interview Series" - @smassagee00 https://t.co/zJ6SOBjKQj pic.twitter.com/D1AvKrs5bb
