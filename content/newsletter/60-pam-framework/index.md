@@ -53,7 +53,6 @@ In today’s issue, I want to explain the PAM framework to you, which stands for
 There are three vital aspects of human cognition to consider in game UX: perception, attention, and memory. Let's break these three aspects down in the PAM framework.
 
 **Perception:**
-
 Perception is subjective and is a construction of the mind. We perceive our environment by interpreting sensory information. In game design, this refers to how players interpret visual, auditory, and even haptic feedback.  Players may perceive the same game elements differently based on their prior knowledge, their emotional connection to the game, and even their biology (for example, colour blindness). It is possible for a player who is unfamiliar with the game to interpret an object differently than an experienced player, even if the object is visually the same. To indicate tasks that players can interact with, the developers of the game "Among Us" use simple visual cues. Bright yellow exclamation marks distinguish the tasks from the rest of the environment. Players who are new to the game can quickly see what they can interact with. To ensure players understand the meaning of icons (or UI elements), the design team must change them to something more universally recognizable. UI elements in games may be familiar to players from different cultures at different levels, which is especially important for games aimed at international audiences. All changes to UI elements in the game must be thoroughly tested by the developers to ensure maximum accessibility.
 
 **Attention:**
